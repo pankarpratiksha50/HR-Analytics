@@ -1,9 +1,9 @@
 # HR Analytics Dashboard – Employee Attrition Analysis
 
-# 🎯 Objective:
+#  Objective:
 To analyze employee attrition trends based on demographics, education, job role, marital status, and department, helping HR make data-driven decisions to improve employee retention and job satisfaction.
 
-# 📌 Key Performance Indicators (KPIs):
+#  Key Performance Indicators (KPIs):
 
   Total Employees: 882
 
@@ -17,7 +17,7 @@ To analyze employee attrition trends based on demographics, education, job role,
 
   Job Satisfaction Rating: 2.6 / 5
 
-  # ✅ Outcomes:
+  #  Outcomes:
     Highest attrition observed in Sales Executives and Laboratory Technicians.
 
     Bachelor’s Degree holders show the highest attrition (61 employees).
